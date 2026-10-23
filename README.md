@@ -16,7 +16,3 @@ My academic and professional experience includes machine learning, computer visi
 **Languages:** Python, Java, C/C++, Kotlin, TypeScript, SQL
 
 **Frameworks & Tools:** PyTorch, OpenCV, React, Docker, Kubernetes, Git, Linux
-
----
-
-[LinkedIn](https://www.linkedin.com/in/ebubekir-erden-9a7789253/)
