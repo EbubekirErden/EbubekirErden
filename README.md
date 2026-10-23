@@ -1,21 +1,22 @@
 # Ebubekir Erden
 
-Computer Engineering student at Boğaziçi University, interested in AI/data systems, full-stack development, and infrastructure for intelligent applications.
+Computer Engineering undergraduate at **Boğaziçi University**, with a focus on software engineering, artificial intelligence, and distributed systems.
 
-## Working Areas
+My academic and professional experience includes machine learning, computer vision, software development, infrastructure research, and software testing. I enjoy working on projects that combine different technologies and involve both system design and practical implementation.
 
-**AI, Data Mining, and NLP**  
-I work on data processing problems involving unstructured text, news/event data, recommendation systems, semantic similarity, clustering, and lightweight NLP/ML models.
+### Areas of Work
 
-**Full-Stack and Mobile Development**  
-I build web and mobile applications with production-style workflows, including frontend interfaces, backend API integration, testing, pull requests, and documentation.
+- **Artificial Intelligence & Machine Learning** — Computer vision, NLP, recommendation systems, and model evaluation.
+- **Software Development** — Backend systems, web and mobile applications, and software testing.
+- **Infrastructure & Distributed Systems** — Containerization, orchestration, Linux, and deployment architectures.
+- **Embedded Systems** — Hardware integration, real-time processing, and simulation.
 
-**Systems and AI Infrastructure**  
-I am interested in how AI systems are deployed, tested, and scaled. I have worked with containerization, orchestration, benchmarking, Linux-based environments, and distributed architecture experiments.
+### Technologies
 
-**Algorithms, Simulation, and Game Systems**  
-I enjoy projects where correctness and state management matter: data structures, graph algorithms, deterministic simulations, game engines, bots, and rule-based systems.
+**Languages:** Python, Java, C/C++, Kotlin, TypeScript, SQL
 
-## Notes
+**Frameworks & Tools:** PyTorch, OpenCV, React, Docker, Kubernetes, Git, Linux
 
-Selected public repositories are pinned below. Some additional work, including OSINT/data-processing systems, company-related projects, and coursework, is private or cannot be shared publicly due to confidentiality or institutional restrictions.
+---
+
+[LinkedIn](https://www.linkedin.com/in/ebubekir-erden-9a7789253/)
